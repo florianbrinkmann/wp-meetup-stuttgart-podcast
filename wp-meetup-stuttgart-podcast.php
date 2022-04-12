@@ -3,7 +3,7 @@
  * WP Meetup Stuttgart Podcast.
  *
  * @package   WMSP
- * @license   GPL-2.0+
+ * @license   GPL-2.0-or-later
  *
  * @wordpress-plugin
  * Plugin Name: Podcasts
@@ -12,7 +12,8 @@
  * Version:     1.0.0-beta
  * Author:      Florian Brinkmann, Matthias Pfefferle & Angelo Cali
  * Author URI:  https://pluginkollektiv.org/
- * License:     GPL v2 http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+ * License:     GPL-2.0-or-later
+ * License URI: http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
  * Text Domain: wp-meetup-stuttgart-podcast
  */
 
