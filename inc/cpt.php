@@ -26,6 +26,7 @@ function register_podcast_cpt() {
 		'show_in_rest' => true,
 		'menu_icon' => 'dashicons-media-audio',
 		'public' => true,
+		'has_archive' => true,
 		'supports' => [ 'title', 'editor', 'custom-fields', ],
 		'template' => [
 			[ 'core/paragraph', [ 'placeholder' => 'TEXT' ] ],
