@@ -2,14 +2,14 @@
 
 ## Prepare (Flo)
 
-1. Docker starten
-2. WordPress installieren
+1. Start Docker
+2. Install WordPress
 
 ## Plugin file (Matthias)
 
 1. Plugin Header
 2. Namespace
-3. In WordPress: Plugin aktivieren
+3. In WordPress: activate Plugin
 
 ## Custom Post Type (Flo)
 
